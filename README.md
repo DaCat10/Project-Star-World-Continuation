@@ -1,4 +1,4 @@
-# ⭐ Project-Star-World-Continued-Interest ⭐
+# ⭐ Project Star World : Continuation ⭐
 A project that aims to recreate the E3 2006 demo of Super Mario Galaxy! Originally created by SPG64 and others people
 
 # 📒 Installation Guide
