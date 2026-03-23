@@ -1,5 +1,17 @@
 # ⭐ Project Star Rework ⭐
-A project that aims to recreate the E3 2006 demo of Super Mario Galaxy! Originally created by SPG64 and others people
+Welcome to Project Star Rework GitHub.
+
+We are dedicated to reviving and completing the lost vision of the original Super Mario Galaxy E3 2006 demo. Following the cancellation of the project by the original team (SPG64), we have stepped in to finish what was started.
+
+Our Mission:
+
+- Complete the reimagining of the 2006 E3 build.
+
+- Squashing legacy bugs and refining gameplay.
+
+- Optimizing for Wii U (and potentially original Wii hardware).
+
+Join our Discord Server to follow our development updates and help us bring this piece of gaming history to life!
 
 # 📒 Installation Guide
 
@@ -105,8 +117,10 @@ Then close the window, right-click on SUPER MARIO GALAXY - Properties and select
 If you have had any issues with anything, please let us know in “issues” on this GitHub page. I would be happy to help you.
 
 # 🛠️ The team / Credits
-TechGuys TechSpot & Games: Game tweaker
-
+TechGuys TechSpot & Games : Game tweaker
+RTGgamerz306 : Game devlopper
+JustAlex : His Good Egg Galaxy recreation is used in game
+GoldyBer : His Star Get theme recreation is used in game
 Me (DaCat) : Github repository and Discord server (i guess)
 
 ## I need your help, If you feel able to help me with this project, it would be a pleasure (I'm really very bad at SMG modding)
